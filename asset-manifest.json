@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Keeper-App/static/css/main.de77c2c6.css",
+    "main.js": "/Keeper-App/static/js/main.8ae8e360.js",
+    "static/js/787.4b64efdf.chunk.js": "/Keeper-App/static/js/787.4b64efdf.chunk.js",
+    "index.html": "/Keeper-App/index.html",
+    "main.de77c2c6.css.map": "/Keeper-App/static/css/main.de77c2c6.css.map",
+    "main.8ae8e360.js.map": "/Keeper-App/static/js/main.8ae8e360.js.map",
+    "787.4b64efdf.chunk.js.map": "/Keeper-App/static/js/787.4b64efdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de77c2c6.css",
+    "static/js/main.8ae8e360.js"
+  ]
+}
